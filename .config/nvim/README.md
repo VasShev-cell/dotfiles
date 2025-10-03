@@ -2,7 +2,7 @@
 
 - plugin manager - nvim plug manager
 - navigation using `oil`
-- theme - `tokyonight`
+- theme - `catppuccin`
 - most using plugins:
 - - windwp/nvim-autopairs
 - - numToStr/Comment
