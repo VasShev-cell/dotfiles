@@ -1,0 +1,16 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+		"html",
+    "sass",
+    "css",
+    "markdown",
+    "javascript",
+    "typescript",
+    "lua",
+    "typescriptreact",
+  ],
+  "pyright.inlayHints.functionReturnTypes": false,
+  "pyright.inlayHints.variableTypes": false,
+  "pyright.inlayHints.parameterTypes": false,
+  "svelte.enable-ts-plugin": false,
+}
